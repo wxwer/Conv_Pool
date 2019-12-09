@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1575901323 source:d:\数据\文件\web\cppprojects\convolution\main.cpp
+	"operations.h"
+	<iostream>
+	<string.h>
+
+1575901119 d:\数据\文件\web\cppprojects\convolution\operations.h
+
